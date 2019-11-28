@@ -16,7 +16,7 @@ func main() {
     var e int
     fmt.Println(e)
 
-    f := "apple"
+    f := "apple" // var f string = "apple" 的简写
     fmt.Println(f)
 }
 
