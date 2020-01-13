@@ -27,14 +27,23 @@ import "fmt"
 // apple
 
 // 1 区分单引号及双引号
+// func main() {
+
+// 	var a = 123
+// 	fmt.Println(a)
+
+// 	var b, c, d int = 1, 2, 3
+// 	fmt.Println(b, c, d)
+
+// 	e := "apple"
+// 	fmt.Println(e)
+// }
+
+// 2
 func main() {
+	var a, b int = 1, 2
+	fmt.Println(a, b)
 
-	var a = 123
-	fmt.Println(a)
-
-	var b, c, d int = 1, 2, 3
-	fmt.Println(b, c, d)
-
-	e := "apple"
-	fmt.Println(e)
+	f := "123"
+	fmt.Println(f)
 }

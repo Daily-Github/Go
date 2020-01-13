@@ -9,6 +9,11 @@ import "fmt"
 // hello world
 
 // 1
+// func main() {
+// 	fmt.Println("hi i am qi")
+// }
+
+// 2
 func main() {
-	fmt.Println("hi i am qi")
+	fmt.Print(123)
 }
