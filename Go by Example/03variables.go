@@ -44,6 +44,9 @@ func main() {
 	var a, b int = 1, 2
 	fmt.Println(a, b)
 
-	f := "123"
+	f := 123
 	fmt.Println(f)
 }
+
+// 1 2
+// 123
